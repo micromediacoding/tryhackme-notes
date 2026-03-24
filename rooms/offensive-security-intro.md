@@ -10,12 +10,12 @@
 My very first TryHackMe room! I hacked a fake banking web app (FakeBank) in a safe, legal lab environment.
 
 **Proof of Completion**  
-![Room 100% completed](assets/images/offensive-security-intro/completion-badge.png)
+![Room 100% completed](../assets/images/offensive-security-intro/completion-badge.png)
 
 ## Screenshots (redacted - no answers visible)
-![Task 1 & 2 - redacted](assets/images/offensive-security-intro/offensive-security-intro-task-1-2.png)
+![Task 1 & 2 - redacted](../assets/images/offensive-security-intro/offensive-security-intro-task-1-2.png)
 
-![Task 3 & 4 - redacted](assets/images/offensive-security-intro/offensive-security-intro-task-3-4.png)
+![Task 3 & 4 - redacted](../assets/images/offensive-security-intro/offensive-security-intro-task-3-4.png)
 
 ## Walkthrough (no spoilers)
 - Launched the FakeBank application in the browser.
