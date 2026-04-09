@@ -118,7 +118,7 @@ D) Mapping My City
 
 In a VM, in this part of the room, I will explore a city that represents my client ecosystem, and I will have to investigate and map it.
 
-https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/31-become-a-defender-task-2.png
+![Task 2 - redacted](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/31-become-a-defender-task-2.png)
 
 Outcome: The task was very easy and didn't take more than 2 minutes. Good to "install" fundamentals in my mind. 
 
