@@ -1,4 +1,4 @@
-# offensive-security-intro - TryHackMe
+# 01-offensive-security-intro - TryHackMe
 
 **Completed:** 23 March 2026  
 **Difficulty:** Easy | **Time:** ~10–15 min  
