@@ -184,7 +184,9 @@ C) Defending Your City
 
 I am now told to open a VM, which I do -in this scenario, I need to drag "which tools" protect or are responsible for which part of my ecosystem (city). I try to defend my/client system using available tools.
 
-That task wasn't actually that easy - I made a couple of mistakes. Some of the abilities to choose sounded "similar", but they are not for similar tasks. That is where the confusion came from.
+![Task 3 - redacted](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/31-become-a-defender-task-3.png)
+
+Outcome: That task wasn't actually that easy - I made a couple of mistakes. Some of the abilities to choose sounded "similar", but they are not for similar tasks. That is where the confusion came from.
 
 Of course, I finished the task succesfull but I will have to review the functions of certain parts of my potential ecosystem.
 
