@@ -19,7 +19,7 @@ As the last room of the entire path, it perfectly capped everything I learned: I
 
 Combined with my recent Coursera specialization “Cyber Security in the AI Era,” I finally see the broader picture as a beginner and feel excited to keep exploring the “hidden parts of the map.”
 
-This pathway was easily one of the best investments I’ve ever made. ⛳🚀
+Purchasing a TryHackMe subscription was easily one of the best investments I’ve ever made. ⛳🚀
 
 **Proof of Completion**  
 ![Room 100% completed](../assets/images/offensive-security-intro/completion-badge.png)
