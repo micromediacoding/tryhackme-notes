@@ -7,7 +7,7 @@
 **Spoiler warning** — This write-up contains **zero answers**.
 
 ## Overview
-This was my first room of Pre-Security Learning Path. I am excited for more!
+This was my first room of Pre-Security Learning Path. I hacked a fake banking web app (FakeBank) in a safe, legal lab environment. I am excited for more!
 
 **Proof of Completion**  
 ![Room 100% completed](../assets/images/offensive-security-intro/completion-badge.png)
