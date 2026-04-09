@@ -7,19 +7,7 @@
 **Spoiler warning** — This write-up contains **zero answers**.
 
 ## Overview
-This was my final room in the Pre-Security learning path and, honestly, one of the most enjoyable and eye-opening modules I have completed on TryHackMe.
-
-“Become a Defender” gave me a clear, practical introduction to defensive (Blue Team) security, showing how defenders focus on prevention, detection, mitigation, analysis, and continuous improvement while always thinking like an attacker.
-
-Using the city analogy made everything click — I now better understand visibility, layered defenses, and how every part of an organization’s ecosystem (devices, servers, firewall, mail, etc.) must be protected.
-
-The hands-on mapping and tool-placement tasks in the VM were simple yet surprisingly insightful, reinforcing the defender mindset of threat anticipation, risk prioritization, and constant adaptation.
-
-As the last room of the entire path, it perfectly capped everything I learned: I gained massive knowledge, sharpened my skills, and — most importantly — truly enjoyed the journey.
-
-Combined with my recent Coursera specialization “Cyber Security in the AI Era,” I finally see the broader picture as a beginner and feel excited to keep exploring the “hidden parts of the map.”
-
-Purchasing a TryHackMe subscription was easily one of the best investments I’ve ever made. ⛳🚀
+This was my first room of Pre-Security Learning Path. I am excited for more!
 
 **Proof of Completion**  
 ![Room 100% completed](../assets/images/offensive-security-intro/completion-badge.png)
