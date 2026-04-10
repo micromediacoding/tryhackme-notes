@@ -26,7 +26,7 @@ Purchasing a yearly subscription on TryHackMe was probably one of the best inves
 ![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/30-become-a-hacker-completion-badge.png)
 
 ## Personal, handwritten notes from the room (redacted - no answers visible)
-                             Task 1 - WHAT IS DEFENSIVE SECURITY?
+**Task 1 - WHAT IS DEFENSIVE SECURITY?**
 
 Def Security focuses on preventing, detecting, and mitigating potential attacks via gaining visibility into systems, identifying weak points and ensuring system AVAILABILITY AND PROTECTION, which aligns with CIA Triad (Confidentiality, Integrity, Availability).
 
@@ -34,7 +34,7 @@ Defenders, often referred to as the Blue Team, need to understand how attackers 
 
  
 
-                       Task 2 - UNDERSTANDING YOUR ENVIRONMENT
+**Task 2 - UNDERSTANDING YOUR ENVIRONMENT**
 
 
 A) City Analogy
@@ -125,7 +125,7 @@ Outcome: The task was very easy and didn't take more than 2 minutes. Good to "in
 
 
 
-                       Task 3 - DEFENDING YOUR ENVIRONMENT
+**Task 3 - DEFENDING YOUR ENVIRONMENT**
 
 A) The Defender Mindset
 
@@ -190,7 +190,9 @@ Outcome: That task wasn't actually that easy - I made a couple of mistakes. Some
 
 Of course, I finished the task succesfull but I will have to review the functions of certain parts of my potential ecosystem.
 
-                               Task 4 - WHERE TO GO FROM HERE
+
+
+**Task 4 - WHERE TO GO FROM HERE?**
 
 That was incredibly engaging and fun module. I enjoyed it a lot. I will review it again. This is key terminology:
 
@@ -216,13 +218,6 @@ It will be uploaded to my TryHackMe GitHub repo in PDF version, under the name:
 
 Blue-team-red-team-definitions-tools-ecosystem
 
-![Task 1 & 2 - redacted](../assets/images/offensive-security-intro/offensive-security-intro-task-1-2.png)
-
-![Task 3 & 4 - redacted](../assets/images/offensive-security-intro/offensive-security-intro-task-3-4.png)
-
-
-**Proof of Completion**  
-![Room 100% completed](../assets/images/offensive-security-intro/completion-badge.png)
 
 
 ## Walkthrough (no spoilers)
