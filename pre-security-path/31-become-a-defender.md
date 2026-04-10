@@ -224,49 +224,49 @@ It will be uploaded to my TryHackMe GitHub repo in PDF version, under the name:
 ---
 
 ### Core Concepts
-1. **Alert triage** — the process of sorting and prioritizing alerts so analysts spend time on the most likely real incidents first. :contentReference[oaicite:0]{index=0}  
-2. **False positive** — an alert or detection that matches a rule but turns out to be harmless activity, which is common in security monitoring. :contentReference[oaicite:1]{index=1}  
-3. **Baseline** — a model of normal behavior used to make unusual behavior easier to notice in logs and detections. :contentReference[oaicite:2]{index=2}  
-4. **Indicator of Compromise (IOC)** — an artifact such as an IP address, domain, file hash, or URL that can help identify malicious activity. :contentReference[oaicite:3]{index=3}  
-5. **Log correlation** — combining related events from different sources to build a clearer picture of what happened during an incident. :contentReference[oaicite:4]{index=4}  
-6. **Enrichment** — adding context such as reputation, geolocation, asset ownership, or threat intelligence to raw alert data. :contentReference[oaicite:5]{index=5}  
-7. **Escalation** — handing a case to a more senior analyst or another team when the evidence or impact goes beyond normal first-line handling. :contentReference[oaicite:6]{index=6}  
-8. **Incident response playbook** — a documented procedure that tells analysts how to investigate and respond consistently to a specific type of alert or incident. :contentReference[oaicite:7]{index=7}  
-9. **Packet capture (PCAP)** — recorded network traffic that analysts can inspect to understand what a host actually sent or received. :contentReference[oaicite:8]{index=8}  
-10. **Detection rule** — logic that turns observed behavior into an alert, often expressed in a SIEM-friendly format such as Sigma. :contentReference[oaicite:9]{index=9}  
+1. **Alert triage** — the process of sorting and prioritizing alerts so analysts spend time on the most likely real incidents first.
+2. **False positive** — an alert or detection that matches a rule but turns out to be harmless activity, which is common in security monitoring.
+3. **Baseline** — a model of normal behavior used to make unusual behavior easier to notice in logs and detections.
+4. **Indicator of Compromise (IOC)** — an artifact such as an IP address, domain, file hash, or URL that can help identify malicious activity.
+5. **Log correlation** — combining related events from different sources to build a clearer picture of what happened during an incident.
+6. **Enrichment** — adding context such as reputation, geolocation, asset ownership, or threat intelligence to raw alert data.
+7. **Escalation** — handing a case to a more senior analyst or another team when the evidence or impact goes beyond normal first-line handling.
+8. **Incident response playbook** — a documented procedure that tells analysts how to investigate and respond consistently to a specific type of alert or incident.
+9. **Packet capture (PCAP)** — recorded network traffic that analysts can inspect to understand what a host actually sent or received.
+10. **Detection rule** — logic that turns observed behavior into an alert, often expressed in a SIEM-friendly format such as Sigma.
 
 ### Reading resources
 **Beginner**
-- [Microsoft Learn — Security operations overview](https://learn.microsoft.com/en-us/security/operations/overview): a clear introduction to how SecOps detects, responds, and recovers during active attacks. :contentReference[oaicite:10]{index=10}  
-- [CISA NICCS](https://niccs.cisa.gov/): an official cybersecurity training and career resource hub that is useful for exploring SOC-related learning paths and roles. :contentReference[oaicite:11]{index=11}  
+- [Microsoft Learn — Security operations overview](https://learn.microsoft.com/en-us/security/operations/overview): a clear introduction to how SecOps detects, responds, and recovers during active attacks.
+- [CISA NICCS](https://niccs.cisa.gov/): an official cybersecurity training and career resource hub that is useful for exploring SOC-related learning paths and roles.
 
 **Technical**
-- [NIST SP 800-61 Rev. 2 — Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final): the standard reference for incident handling, including preparation, detection, analysis, containment, eradication, and recovery. :contentReference[oaicite:12]{index=12}  
+- [NIST SP 800-61 Rev. 2 — Computer Security Incident Handling Guide](https://csrc.nist.gov/pubs/sp/800/61/r2/final): the standard reference for incident handling, including preparation, detection, analysis, containment, eradication, and recovery.
 
 ### Career insights
-This room matters later because SOC and DFIR work are built around the same loop: detect, investigate, contain, and document. :contentReference[oaicite:13]{index=13}  
-It also teaches the analyst mindset of turning raw logs into evidence, which is a core skill in threat hunting and incident response. :contentReference[oaicite:14]{index=14}  
-The earlier you become comfortable with alerts, indicators, and dashboards, the faster you can separate noise from a real attack. :contentReference[oaicite:15]{index=15}  
-That habit transfers directly into SOC roles, where speed and accuracy both matter. :contentReference[oaicite:16]{index=16}  
-Later, the same thinking supports blue-team tooling, detection engineering, and continuous improvement of defenses. :contentReference[oaicite:17]{index=17}  
+This room matters later because SOC and DFIR work are built around the same loop: detect, investigate, contain, and document.  
+It also teaches the analyst mindset of turning raw logs into evidence, which is a core skill in threat hunting and incident response.  
+The earlier you become comfortable with alerts, indicators, and dashboards, the faster you can separate noise from a real attack.  
+That habit transfers directly into SOC roles, where speed and accuracy both matter.  
+Later, the same thinking supports blue-team tooling, detection engineering, and continuous improvement of defenses.
 
 ### Professional Tools
-- **SIEM platforms like Microsoft Sentinel (start early)** — SIEMs collect and correlate logs across systems, and they are one of the first tools a SOC analyst should learn because most investigations begin in a SIEM. :contentReference[oaicite:18]{index=18}  
-- **Sysmon (start early)** — a Windows telemetry tool that records process creation, network connections, and file-change events, which makes it extremely useful for early host-based investigations. :contentReference[oaicite:19]{index=19}  
-- **Wireshark (start early)** — a packet analyzer used to inspect network traffic at a detailed level, which helps beginners learn what “normal” and “suspicious” traffic look like. :contentReference[oaicite:20]{index=20}  
-- **Sigma (start early)** — an open detection rule format for log files that helps analysts write portable detections and think in rule logic rather than vendor-specific syntax. :contentReference[oaicite:21]{index=21}  
-- **MITRE ATT&CK Navigator (start early)** — a visualization tool for mapping detections and coverage to ATT&CK techniques, which is great for learning how attacks are categorized. :contentReference[oaicite:22]{index=22}  
-- **MISP (start early once IOC basics are clear)** — a threat-intelligence platform for collecting and sharing indicators and threat data, which becomes useful as soon as you start working with IOCs regularly. :contentReference[oaicite:23]{index=23}  
-- **Suricata (after networking basics)** — an open-source network threat detection engine that helps you detect and inspect suspicious traffic once you are comfortable with packets and protocols. :contentReference[oaicite:24]{index=24}  
+- **SIEM platforms like Microsoft Sentinel (start early)** — SIEMs collect and correlate logs across systems, and they are one of the first tools a SOC analyst should learn because most investigations begin in a SIEM.
+- **Sysmon (start early)** — a Windows telemetry tool that records process creation, network connections, and file-change events, which makes it extremely useful for early host-based investigations.
+- **Wireshark (start early)** — a packet analyzer used to inspect network traffic at a detailed level, which helps beginners learn what “normal” and “suspicious” traffic look like.
+- **Sigma (start early)** — an open detection rule format for log files that helps analysts write portable detections and think in rule logic rather than vendor-specific syntax.
+- **MITRE ATT&CK Navigator (start early)** — a visualization tool for mapping detections and coverage to ATT&CK techniques, which is great for learning how attacks are categorized.
+- **MISP (start early once IOC basics are clear)** — a threat-intelligence platform for collecting and sharing indicators and threat data, which becomes useful as soon as you start working with IOCs regularly.
+- **Suricata (after networking basics)** — an open-source network threat detection engine that helps you detect and inspect suspicious traffic once you are comfortable with packets and protocols.
 
 ### Learning path
-This room sits in TryHackMe’s **Pre Security** path and acts as the bridge from general cybersecurity basics into defensive operations. :contentReference[oaicite:25]{index=25}  
-TryHackMe also positions it as the starting point for topics such as threat intelligence, SOC work, DFIR, malware analysis, and SIEM, so it is a gateway room rather than an isolated topic. :contentReference[oaicite:26]{index=26}  
+This room sits in TryHackMe’s **Pre Security** path and acts as the bridge from general cybersecurity basics into defensive operations.  
+TryHackMe also positions it as the starting point for topics such as threat intelligence, SOC work, DFIR, malware analysis, and SIEM, so it is a gateway room rather than an isolated topic.
 
 ### Prerequisites check
-The main gaps to close next are network fundamentals, especially IPs, ports, DNS, and HTTP/HTTPS, because defensive monitoring makes much more sense when you can read traffic and logs comfortably. :contentReference[oaicite:27]{index=27}  
-It also helps to understand the incident-handling lifecycle and the difference between an alert, an incident, and a false positive. :contentReference[oaicite:28]{index=28}  
-A good next step is practicing with logs and basic packet captures until you can explain what happened without guessing. :contentReference[oaicite:29]{index=29}  
+The main gaps to close next are network fundamentals, especially IPs, ports, DNS, and HTTP/HTTPS, because defensive monitoring makes much more sense when you can read traffic and logs comfortably.  
+It also helps to understand the incident-handling lifecycle and the difference between an alert, an incident, and a false positive.  
+A good next step is practicing with logs and basic packet captures until you can explain what happened without guessing.
 
 ---
 
@@ -276,7 +276,6 @@ A good next step is practicing with logs and basic packet captures until you can
 - Model: GPT-5.4 Thinking-Mini
 - Date: 2026-04-10
 - Prompt Framework: coming soon
-
 
 
 ## Next Steps
