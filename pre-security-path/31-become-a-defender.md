@@ -280,7 +280,7 @@ A good next step is practicing with logs and basic packet captures until you can
 
 ## Next Steps
 - I need to review the whole learning path and then book & pass the Sec0 Exam
-- I am preparing everything for starting the [Cybersecurity 101 learning path](https://tryhackme.com/paths) on TryHackMe
+- I am preparing everything for starting the [Cybersecurity 101 learning path](https://tryhackme.com/hacktivities?tab=paths) on TryHackMe
 
 ## My profiles
 - TryHackMe: [micro.media.coding](https://tryhackme.com/p/micro.media.coding)
