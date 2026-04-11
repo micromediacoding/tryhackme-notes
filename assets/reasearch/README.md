@@ -12,7 +12,7 @@ SOC Home Lab with Wazuh SIEM for security monitoring, SSH attack detection, and 
 ## 📌 Overview
 
 
-This project demonstrates a **hands-on SOC (Security Operations Center) lab** where real-world attack scenarios were simulated and analyzed using **Wazuh SIEM**.
+
 
 The focus of this lab is to detect and analyze **SSH brute-force attacks**, perform **log analysis**, and understand how alerts are generated and investigated across Windows and Linux systems.
 
