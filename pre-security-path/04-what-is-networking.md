@@ -26,21 +26,26 @@ Overall I think this is a solid foundation before moving on to the Intro to LAN 
 ## Personal, handwritten notes from the room (redacted - no answers visible)
 
 **Task 1 - WHAT IS NETWORKING**
+
 In this first task they explained the basic idea of what a network actually is. I learned that networks are just things connected together, whether it’s people, transport systems or computers. In computing it’s the same concept — devices linked so they can communicate and share stuff. It was a simple but clear start, showing how networks are everywhere in daily life.
 
 **Task 2 - WHAT IS THE INTERNET**
+
 Here they moved on to explain the Internet as one huge network made up of lots of smaller private networks joined together. I understood that Alice acts like a translator between friends who speak different languages, which is similar to how devices talk across networks. They also mentioned the history from ARPANET to Tim Berners-Lee creating the World Wide Web in 1989. It helped me see the difference between private and public networks.
 ![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/04-what-is-networking-task-2.png)
 
 **TASK 3 - IDENTIFYING DEVICES ON A NETWORK**
+
 This task covered how devices identify themselves on a network using IP addresses and MAC addresses. I learned that IP addresses can change and are like temporary labels, while MAC addresses are permanent like fingerprints and can even be spoofed. There was a practical lab where I had to spoof a MAC address to get access to the hotel Wi-Fi simulation. It was interesting to see how MAC spoofing works in real scenarios.
 ![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/04-what-is-networking-task-3.png)
 
 **TASK 4 - PING (ICMP)**
+
 In this part I learned about the ping tool and how it uses ICMP packets to test connections between devices. I ran a few ping commands on the target machine to check response times and confirm the connection. It was useful to see the basic syntax and what the output looks like. This is a simple but important tool I’ll definitely use a lot later.
 ![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/04-what-is-networking-task-4.png)
 
 **TASK 5 - CONTINUE YOUR LEARNING: INTRO TO LAN**
+
 The last task just pointed me to the next room called Intro to LAN to keep learning. It felt like a natural bridge to go deeper into local networks after the basics. Overall the whole room gave me a decent high-level understanding of networking fundamentals without overwhelming me. I think it was a good starting point before jumping into more technical stuff.
 
 ---
