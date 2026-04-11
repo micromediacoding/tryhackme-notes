@@ -34,7 +34,7 @@ Defenders, often referred to as the Blue Team, need to understand how attackers 
 
  
 
-**Task 2 - UNDERSTANDING YOUR ENVIRONMENT**
+#**Task 2 - UNDERSTANDING YOUR ENVIRONMENT**
 
 
 A) City Analogy
