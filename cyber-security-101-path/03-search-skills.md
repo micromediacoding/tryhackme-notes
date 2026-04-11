@@ -59,7 +59,7 @@ fgh
 - I have to YYY
 - Example:"" I am preparing everything for starting the [Cybersecurity 101 learning path](https://tryhackme.com/hacktivities?tab=paths) on TryHackMe ""
 
-- ## My profiles
+## My profiles
 - TryHackMe: [EchoHound](https://tryhackme.com/p/EchoHound)
 - GitHub: [micromediacoding](https://github.com/micromediacoding)
 
