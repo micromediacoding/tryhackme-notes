@@ -277,6 +277,7 @@ A good next step is practicing with logs and basic packet captures until you can
 - Date: 2026-04-10
 - Prompt Framework: coming soon
 
+---
 
 ## Next Steps
 - I need to review the whole learning path and then book & pass the Sec0 Exam
