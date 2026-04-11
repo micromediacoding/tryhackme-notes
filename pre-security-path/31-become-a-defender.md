@@ -280,10 +280,11 @@ A good next step is practicing with logs and basic packet captures until you can
 
 ## Next Steps
 - I need to review the whole learning path and then book & pass the Sec0 Exam
-- I am preparing everything for starting the [Cybersecurity 101 learning path](https://tryhackme.com/hacktivities?tab=paths) on TryHackMe
+- I am preparing everything for successfull start of  [Cybersecurity 101 learning path](https://tryhackme.com/hacktivities?tab=paths) on TryHackMe (I downloaded Joplin and Obsidian for notes, I am doing research about setting up your first home lab)
+- I am preparing a template MD which I will use to create write-ups (room reports like this one) on regular basis, right after I finish a room (So far, I have been taking notes from the entire learning path and I am currently uploading them, but it takes a huge amount of time and I have to make a lot of corrections, the md template with ready-made headers which I will only supplement with content will improve the entire process and minimize wasted time).
 
 ## My profiles
-- TryHackMe: [micro.media.coding](https://tryhackme.com/p/micro.media.coding)
+- TryHackMe: [EchoHound](https://tryhackme.com/p/EchoHound)
 - GitHub: [micromediacoding](https://github.com/micromediacoding)
 
 ---
