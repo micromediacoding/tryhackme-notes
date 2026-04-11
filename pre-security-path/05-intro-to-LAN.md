@@ -1,4 +1,4 @@
-# Room 4- Intro to LAN - TryHackMe
+# Room 5- Intro to LAN - TryHackMe
 
 **Completed:** xx April 2026  
 **Difficulty:** Easy | **Time:** ~30min
