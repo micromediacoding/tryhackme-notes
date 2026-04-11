@@ -282,6 +282,7 @@ A good next step is practicing with logs and basic packet captures until you can
 - I need to review the whole learning path and then book & pass the Sec0 Exam
 - I am preparing everything for successfull start of  [Cybersecurity 101 learning path](https://tryhackme.com/hacktivities?tab=paths) on TryHackMe (I downloaded Joplin and Obsidian for notes, I am doing research about setting up your first home lab)
 - I am preparing a template MD which I will use to create write-ups (room reports like this one) on regular basis, right after I finish a room (So far, I have been taking notes from the entire learning path and I am currently uploading them, but it takes a huge amount of time and I have to make a lot of corrections, the md template with ready-made headers which I will only supplement with content will improve the entire process and minimize wasted time).
+- Part of my Room write-ups will be supplemental analysis generated through AI-assisted research (paragraph "Further Learning & Professional Context") related to the room that will be meant to support my learning process. I prepared a prompt that, in my opinion, is well structured to provide a user-friendly analysis of the studied topic.
 
 ## My profiles
 - TryHackMe: [EchoHound](https://tryhackme.com/p/EchoHound)
