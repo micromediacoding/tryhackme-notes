@@ -9,9 +9,9 @@
 ---
 
 ## Overview
-xx
-xx
-xx
+xyz
+xyz
+
 
 **Proof of Completion**  
 ![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/misc/coming_soon.png)
@@ -19,12 +19,15 @@ xx
 ---
 
 ## Personal, handwritten notes from the room (redacted - no answers visible)
+
 **Task 1 - NAME OF TASK IN ROOM**
+
 xx
 xx
 
 
 **Task 8 - NAME OF TASK IN ROOM**
+
 xx
 xx
 
