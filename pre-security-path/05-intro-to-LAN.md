@@ -19,21 +19,26 @@ This room is a straightforward introduction to how local area networks actually 
 
 ## Personal, handwritten notes from the room (redacted - no answers visible)
 
-**TASK 1 - INTRODUCING LAN TOPOLOGIES
+**TASK 1 - INTRODUCING LAN TOPOLOGIES**
+
 In this task they explained the main types of LAN topologies like Star, Bus and Ring. I learned that Star is the most common today because it’s reliable and easy to add devices, even though it costs more with extra cabling and switches. Bus topology is cheaper but has a single backbone cable so everything can slow down or break if that cable fails. Ring topology uses a loop and data travels in one direction, which makes troubleshooting easier but a single fault can take down the whole network. There was also a practical lab where I had to break the topologies to get the flag. It was useful to see the real advantages and disadvantages of each design.
 
 **TASK 2 - A PRIMER ON SUBNETTING**
+
 This task introduced subnetting and why we split networks into smaller pieces. I learned that subnetting is basically dividing a big network so different departments or use cases can have their own smaller networks, which helps with efficiency, security and control. They explained the three main parts of an IP address on a subnet: network address, host address and default gateway. It made sense why big places like offices use subnetting instead of one flat network. The examples with cafés having separate employee and guest networks were clear. This one gave me a decent understanding of how networks are organised in real environments.
 ![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/05-Intro-to-LAN-task-2.png)
 
 **TASK 3 - ARP**
+
 Here they covered ARP and how devices find each other on the network. I learned that ARP maps IP addresses to MAC addresses using requests and replies, and every device keeps a cache of these mappings. The process is simple: a device broadcasts an ARP request asking who has a certain IP, and the owner replies with its MAC address. They also mentioned that MAC addresses can be spoofed, which can bypass some security. It was interesting to see how this low-level protocol actually works behind the scenes. This is one of those things I’ll probably use a lot when doing network troubleshooting later.
 
 **TASK 4 - DHCP**
+
 This task explained how DHCP automatically assigns IP addresses to devices. I learned the full four-step process: Discover, Offer, Request and ACK. The device sends a DHCP Discover, the server offers an IP, the device requests it, and the server confirms with ACK. It’s much easier than manually configuring every device. This is how most networks in real life give out IPs without manual work. It was a short but clear task that connected well with the previous ones about IP addresses.
 ![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/05-Intro-to-LAN-task-4.png)
 
 **TASK 5 - CONTINUE YOUR LEARNING: OSI MODEL**
+
 The last task just pointed me to the next room called Intro to OSI Model to keep going. It felt like a natural next step after learning about LANs, subnetting, ARP and DHCP. Overall this room gave me a good foundation on how local networks are built and how devices communicate inside them. I think it was a useful room before moving into more advanced networking concepts. It wasn’t too heavy and the practical parts helped me understand the theory better.
 
 ---
