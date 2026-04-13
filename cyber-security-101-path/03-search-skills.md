@@ -14,7 +14,7 @@ xx
 xx
 
 **Proof of Completion**  
-![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/30-become-a-hacker-completion-badge.png)
+![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/cyber-security-101-pathway/03-search-skills-completion-badge.png)
 
 ---
 
