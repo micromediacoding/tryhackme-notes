@@ -2,9 +2,13 @@
 [🔗](https://tryhackme.com/module/ai-fundamentals)
 
 **Started**: 23:02 (UTC+00:00), 13/04/2026
-**Completed:** xy:xy (UTC+00:00), xx May 2026  
+
+**Completed:** xy:xy (UTC+00:00), xx May 2026 
+
 **Difficulty:** Medium | **Time:** ~60min
+
 **Modules: 5**
+
 **Rooms: 26**
 
 **Spoiler warning** — This write-up contains **zero answers**.
