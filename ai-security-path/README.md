@@ -19,9 +19,9 @@
 
 ---
 
-### Journal
+## **Journal**
 
-**23:24, 13/04/2026**
+### **23:24, 13/04/2026**
 
 Today, TryHackMe announced the release of a new learning path - [AI Security](https://github.com/micromediacoding/tryhackme-notes/blob/main/ai-security-path/NEW%20AI%20Security%20Learning%20Path%20is%20live.pdf), and I decided to immediately enroll and simultaneously do this pathway and Cybersecurity 101.
 
