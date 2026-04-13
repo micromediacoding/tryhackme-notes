@@ -15,5 +15,7 @@
 
 ---
 
+![Realease](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/ai-security-pathway/AI-security-thm-pdf-logo.png)
+
 ## Overview
-Today, TryHackMe announced release of new learning path - [AI Security](https://github.com/micromediacoding/tryhackme-notes/blob/main/ai-security-path/NEW%20AI%20Security%20Learning%20Path%20is%20live.pdf), and I decided to immediately enroll and simultaneously do this pathway and Cybersecurity 101 - I am motivated and organised, I think I can do it if I approach it in the right way. This repository will be dedicated to the description of my progress with [AI Security](https://www.linkedin.com/posts/tryhackme_new-ai-security-learning-path-is-live-activity-7449479098181214208-XEOe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4yDTcBD2-02tGctd_ChfHqYWbE61SIPI4) learning path.
+Today, TryHackMe announced release of new learning path - [AI Security](https://github.com/micromediacoding/tryhackme-notes/blob/main/ai-security-path/NEW%20AI%20Security%20Learning%20Path%20is%20live.pdf), and I decided to immediately enroll and simultaneously do this pathway and Cybersecurity 101 - I am motivated and organised, I think I can do it if I approach it in the right way. This repository will be dedicated to the description of my progress with [AI Security modules](https://www.linkedin.com/posts/tryhackme_new-ai-security-learning-path-is-live-activity-7449479098181214208-XEOe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4yDTcBD2-02tGctd_ChfHqYWbE61SIPI4).
