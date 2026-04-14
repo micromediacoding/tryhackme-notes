@@ -13,7 +13,7 @@
 It will be written once room is completed.
 
 **Proof of Completion**  
-![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/misc/coming_soon.png)
+![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/ai-security-pathway/01-ai-ml-security-threats-completion-badge.png)
 
 ---
 
