@@ -1,6 +1,6 @@
 # Room 31- Become a Defender - TryHackMe
 
-**Completed:** xx April 2026  
+**Completed:** 14 April 2026  
 **Difficulty:** Easy | **Time:** ~30-60min
 **Room:** [Become a Defender](https://tryhackme.com/room/becomeadefender)
 
@@ -23,9 +23,10 @@ Purchasing a yearly subscription on TryHackMe was probably one of the best inves
 
 
 **Proof of Completion**  
-![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/30-become-a-hacker-completion-badge.png)
+![Room 100% completed](assets/images/pre-security-pathway/31-become-a-defender-completion-badge.png)
 
 ## Personal, handwritten notes from the room (redacted - no answers visible)
+
 **Task 1 - WHAT IS DEFENSIVE SECURITY?**
 
 Def Security focuses on preventing, detecting, and mitigating potential attacks via gaining visibility into systems, identifying weak points and ensuring system AVAILABILITY AND PROTECTION, which aligns with CIA Triad (Confidentiality, Integrity, Availability).
@@ -43,16 +44,16 @@ If defensive security were a building, it would translate to this picture:
 
 
 1. What are you protecting (Systems and Infrastructure)?	
-- Homes, buildings, people    ->  in Cyber Security it's client servers, data, workstations, users
+- Homes, buildings, people    ->  in Cyber Security, it's client servers, data, workstations, users
 
 2. Can you see what you are protecting (Visibility)?
 - Cameras, reports, patrols	-> in Cyber Security, it's Logs, network traffic, alerts
 
 3. What classifies suspicious behaviour?	
-- Locked door attempts, circling cars	-> in CyberSec it's Repeated logins, unusual IP addresses
+- Locked door attempts, circling cars	-> in CyberSec, it's repeated logins, unusual IP addresses
 
 4. How do you stop a threat?	
-- Police, blocked roads, curfews    -> in CyberSec it's Firewall rules, IP address blocking
+- Police, blocked roads, curfews    -> in CyberSec, it's Firewall rules, IP address blocking
 
 
 
