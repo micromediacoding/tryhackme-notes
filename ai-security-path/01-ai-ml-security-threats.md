@@ -1,5 +1,4 @@
-# Room 1- AI/ML Security Threats - TryHackMe
-[🔗](https://tryhackme.com/room/aimlsecuritythreats)
+# Room 1- AI/ML Security Threats - TryHackMe [🔗](https://tryhackme.com/room/aimlsecuritythreats)
 
 **Started:** 23:31, 13 April 2026
 
