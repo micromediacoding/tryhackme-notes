@@ -1,7 +1,7 @@
 # Room 1- AI/ML Security Threats - TryHackMe
 [🔗](https://tryhackme.com/room/aimlsecuritythreats)
 
-**Completed:** xx April 2026  
+**Completed:** 14 April 2026  
 **Difficulty:** Easy | **Time:** ~60min
 **Room:** [AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats)
 
