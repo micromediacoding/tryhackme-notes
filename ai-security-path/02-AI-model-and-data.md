@@ -12,3 +12,6 @@
 ## Overview
 
 ⌛
+
+**Proof of Completion**  
+![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/misc/coming_soon.png)
