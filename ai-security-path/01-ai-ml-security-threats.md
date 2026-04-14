@@ -8,23 +8,25 @@
 **Spoiler warning** — This write-up contains **zero answers**.
 
 ---
-**Proof of Completion**  
 ![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/ai-security-pathway/01-ai-ml-security-threats-completion-badge.png)
 ---
 
 ## Overview
 This room is all about AI and Machine Learning in the context of cybersecurity — both how attackers are already using it and how defenders can fight back with it. I went through every task, read the explanations, answered the questions, and completed the practical section where I used the TryHackMe AI assistant to analyse logs, detect phishing, generate threat hunting ideas and create regex patterns. I learned the full chain from basic AI definitions through ML, Deep Learning, neural networks and LLMs all the way to real-world threats like prompt injection, data poisoning and deepfakes. The room also covered defensive AI, the IBM Cost of a Data Breach Report, and why companies that adopt AI security save serious money. Overall it gave me a clear picture of how fast this field is moving and why I need to understand both sides if I want to work in threat hunting or defensive security.
+
 Here’s what stood out for me:
 
-AI is the broad field of machines doing human-like tasks, while Machine Learning is the subset where models learn from data without explicit programming.
-Deep Learning is a more advanced form of ML that uses neural networks and can handle massive unlabelled datasets on its own.
-LLMs like GPT are built on transformer neural networks and use techniques like attention and RLHF to generate human-like text.
-Attackers can abuse AI through prompt injection, data poisoning, model theft, model drift and privacy leakage.
-AI can also enhance traditional attacks — generating better malware, deepfakes for social engineering, or more convincing phishing emails.
-On the defensive side, AI is already being used for anomaly detection, automated triage, log analysis and faster incident response (tools like Splunk, Microsoft Defender, CrowdStrike and SentinelOne were mentioned).
-The room stressed that we need to secure our own AI models with RBAC, encryption, monitoring and standards like ISO/IEC 27090.
+- AI is the broad field of machines doing human-like tasks, while Machine Learning is the subset where models learn from data without explicit programming. -
+- Deep Learning is a more advanced form of ML that uses neural networks and can handle massive unlabelled datasets on its own. -
+- LLMs like GPT are built on transformer neural networks and use techniques like attention and RLHF to generate human-like text. - 
+- Attackers can abuse AI through prompt injection, data poisoning, model theft, model drift and privacy leakage. -
+- AI can also enhance traditional attacks — generating better malware, deepfakes for social engineering, or more convincing phishing emails. -
+- On the defensive side, AI is already being used for anomaly detection, automated triage, log analysis and faster incident response (tools like Splunk, Microsoft Defender, CrowdStrike and SentinelOne were mentioned). -
+- The room stressed that we need to secure our own AI models with RBAC, encryption, monitoring and standards like ISO/IEC 27090. -
 
-This room wasn’t overly technical but it connected a lot of dots for me. I think it’s a really useful high-level overview before I start diving deeper into practical AI security labs. It also reinforced why I want to focus on defensive cybersecurity — the defensive potential of AI looks massive if done right. I saved the full interaction with the TryHackMe AI from the practical task as a PDF and added it to the repo.
+This room wasn’t overly technical, but it connected a lot of dots, at least for me. I think it’s a really useful high-level overview before I start diving deeper into practical AI security labs.
+Since I have been leveraging the capabilities of several AIs for months now - including using 5 AIs simultaneously every day - Grok, ChatGPT, Perplexity, Gemini and Antropic to chain their research - it seems to me that knowledge from this pathway may be crucial for me, even critical, considering the direction of technological development and the development of events in the world.
+It also reinforced why I want to focus on defensive cybersecurity — the defensive potential of AI looks massive if done right. I saved the full interaction with the TryHackMe AI from the practical task as a PDF and added it to the repo.
 
 ---
 
