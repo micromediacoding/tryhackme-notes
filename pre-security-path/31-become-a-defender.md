@@ -219,6 +219,8 @@ It will be uploaded to my TryHackMe GitHub repo in PDF version, under the name:
 
 [Blue Team - Red Team - Research Analysis](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/reasearch/blue_red_team_research_analysis.md)
 
+---
+
 ## Further Learning & Professional Context
 *Supplemental analysis generated through AI-assisted research*
 
