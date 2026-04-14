@@ -26,7 +26,7 @@ Self-directed cybersecurity journey — documenting every TryHackMe room, path, 
 **Navigation**
 
 - [Completed Rooms](https://github.com/micromediacoding/tryhackme-notes/tree/main/pre-security-path)  
-- In-progress Paths: [Cyber Security 101](https://github.com/micromediacoding/tryhackme-notes/tree/main/cyber-security-101-path) and [AI Security]([./paths/](https://github.com/micromediacoding/tryhackme-notes/tree/main/ai-security-path))  
+- In-progress Paths: [Cyber Security 101](https://github.com/micromediacoding/tryhackme-notes/tree/main/cyber-security-101-path) and [AI Security](https://github.com/micromediacoding/tryhackme-notes/tree/main/ai-security-path)  
 - [Shared Assets & Templates](./assets/)  
 - [Research](https://github.com/micromediacoding/tryhackme-notes/tree/main/assets/reasearch)
 
