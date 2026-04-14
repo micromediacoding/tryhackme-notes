@@ -2,8 +2,11 @@
 [🔗](https://tryhackme.com/room/aimlsecuritythreats)
 
 **Started:** 23:31, 13 April 2026
+
 **Completed:** 11:58, 14 April 2026
+
 **Difficulty:** Easy | **Time:** ~60min
+
 **Room:** [AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats)
 
 **Spoiler warning** — This write-up contains **zero answers**.
