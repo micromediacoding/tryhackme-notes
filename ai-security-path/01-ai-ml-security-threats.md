@@ -6,7 +6,9 @@
 **Room:** [AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats)
 
 **Spoiler warning** — This write-up contains **zero answers**.
-
+---
+**Proof of Completion**  
+![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/ai-security-pathway/01-ai-ml-security-threats-completion-badge.png)
 ---
 
 ## Overview
@@ -22,9 +24,6 @@ On the defensive side, AI is already being used for anomaly detection, automated
 The room stressed that we need to secure our own AI models with RBAC, encryption, monitoring and standards like ISO/IEC 27090.
 
 This room wasn’t overly technical but it connected a lot of dots for me. I think it’s a really useful high-level overview before I start diving deeper into practical AI security labs. It also reinforced why I want to focus on defensive cybersecurity — the defensive potential of AI looks massive if done right. I saved the full interaction with the TryHackMe AI from the practical task as a PDF and added it to the repo.
-
-**Proof of Completion**  
-![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/ai-security-pathway/01-ai-ml-security-threats-completion-badge.png)
 
 ---
 
