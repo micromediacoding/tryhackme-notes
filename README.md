@@ -6,7 +6,7 @@ Self-directed cybersecurity journey — documenting every TryHackMe room, path, 
 
 **Who I am**  
 - From Poland, currently building strong fundamentals in IT & cybersecurity  
-- Completing University of Maryland / Coursera cybersecurity courses  
+- Completing [Coursera](https://www.coursera.org/) cybersecurity courses and [TryHackMe](https://tryhackme.com/) hands-on labs pathways and certificates
 - Learning Python for scripting & automation (currently midway through full course)  
 - Long-term goal: become an **APT threat hunter / SOC Analyst / OT-ICS security specialist** — someone who observes, analyzes, and disrupts advanced persistent threats and criminal operations (inspired by Dragos threat intel work)  
 - Future focus: threat intelligence (gov or private sector), defensive blue team, SOC Analysis, OT/ICS protection of critical infrastructure
