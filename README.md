@@ -8,8 +8,8 @@ Self-directed cybersecurity journey — documenting every TryHackMe room, path, 
 - From Poland, currently building strong fundamentals in IT & cybersecurity  
 - Completing University of Maryland / Coursera cybersecurity courses  
 - Learning Python for scripting & automation (currently midway through full course)  
-- Long-term goal: become an **APT threat hunter / OT-ICS security specialist** — someone who observes, analyzes, and disrupts advanced persistent threats and criminal operations (inspired by Dragos threat intel work)  
-- Future focus: threat intelligence (gov or private sector), defensive blue team, OT/ICS protection of critical infrastructure
+- Long-term goal: become an **APT threat hunter / SOC Analyst / OT-ICS security specialist** — someone who observes, analyzes, and disrupts advanced persistent threats and criminal operations (inspired by Dragos threat intel work)  
+- Future focus: threat intelligence (gov or private sector), defensive blue team, SOC Analysis, OT/ICS protection of critical infrastructure
 
 **Current status (March 2026)**  
 - Finished: Pre-Security path
@@ -21,12 +21,12 @@ Self-directed cybersecurity journey — documenting every TryHackMe room, path, 
 - Honest, reproducible write-ups of every room and path  
 - Building a public portfolio recruiters can see  
 - Tracking progress toward certifications (SEC0, SOC Level 1, future CPTS / GICSP)  
-- Practicing clear technical communication (very important for intel & OT roles)
+- Practicing clear technical communication (very important for intel, SOC & OT roles)
 
 **Navigation**
 
 - [Completed Rooms](https://github.com/micromediacoding/tryhackme-notes/tree/main/pre-security-path)  
-- In-progress Paths: [Cyber Seucurity 101](https://github.com/micromediacoding/tryhackme-notes/tree/main/cyber-security-101-path) and [AI Security]([./paths/](https://github.com/micromediacoding/tryhackme-notes/tree/main/ai-security-path))  
+- In-progress Paths: [Cyber Security 101](https://github.com/micromediacoding/tryhackme-notes/tree/main/cyber-security-101-path) and [AI Security]([./paths/](https://github.com/micromediacoding/tryhackme-notes/tree/main/ai-security-path))  
 - [Shared Assets & Templates](./assets/)  
 - [Research](https://github.com/micromediacoding/tryhackme-notes/tree/main/assets/reasearch)
 
