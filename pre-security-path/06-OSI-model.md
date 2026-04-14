@@ -2,7 +2,7 @@
 
 **Completed:** xx March 2026  
 **Difficulty:** Easy | **Time:** ~30-60min
-**Room:** [Become a Defender](https://tryhackme.com/room/osimodelzi)
+**Room:** [OSI Model](https://tryhackme.com/room/osimodelzi)
 
 **Spoiler warning** — This write-up contains **zero answers**.
 
