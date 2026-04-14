@@ -12,10 +12,10 @@ Self-directed cybersecurity journey — documenting every TryHackMe room, path, 
 - Future focus: threat intelligence (gov or private sector), defensive blue team, OT/ICS protection of critical infrastructure
 
 **Current status (March 2026)**  
-- Finished: Offensive Security Intro room  
-- In progress: Pre-Security path, Cyber Security 101, starting SOC Level 1  
+- Finished: Pre-Security path
+- In progress: Pre-Security (SEC0) Certification, Cyber Security 101 path & AI Security Path
 - Platforms: TryHackMe (main), planning HackTheBox & KC7 Cyber next  
-- Daily habit: structured notes + screenshots + GitHub commits
+- Daily habit: structured notes + screenshots + GitHub commits + research + 2-device HomeLab preparation
 
 **Repository purpose**  
 - Honest, reproducible write-ups of every room and path  
@@ -25,16 +25,16 @@ Self-directed cybersecurity journey — documenting every TryHackMe room, path, 
 
 **Navigation**
 
-- [Completed Rooms](./rooms/)  
-- [In-progress Paths](./paths/)  
+- [Completed Rooms](https://github.com/micromediacoding/tryhackme-notes/tree/main/pre-security-path)  
+- In-progress Paths: [Cyber Seucurity 101](https://github.com/micromediacoding/tryhackme-notes/tree/main/cyber-security-101-path) and [AI Security]([./paths/](https://github.com/micromediacoding/tryhackme-notes/tree/main/ai-security-path))  
 - [Shared Assets & Templates](./assets/)  
-- [Future Folders] (will add: hackthebox/, kc7/, ot-ics-labs/, certifications/)
+- [Research](https://github.com/micromediacoding/tryhackme-notes/tree/main/assets/reasearch)
 
 **Profiles & Links**
 
-- TryHackMe: https://tryhackme.com/p/YOUR_TRYHACKME_USERNAME  
-- GitHub: https://github.com/YOUR_GITHUB_USERNAME  
-- LinkedIn: (add when ready)  
+- TryHackMe: https://tryhackme.com/p/EchoHound
+- GitHub: https://github.com/micromediacoding
+- LinkedIn: https://www.linkedin.com/in/michal-swierczynski-89b303381/
 
 **Note-taking philosophy**  
 Every room gets:  
@@ -43,6 +43,6 @@ Every room gets:
 - Explanations of **why** something worked  
 - Lessons learned & links to theory (MITRE, NIST, etc.)
 
-Last updated: March 19, 2026
+Last updated: April 2026, 2026
 
 Feel free to fork, star, or message me if something helps you — happy hacking!
