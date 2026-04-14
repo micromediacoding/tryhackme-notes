@@ -1,4 +1,4 @@
-# Room 6- OSI Model - TryHackMe
+# Room 6- OSI Model - TryHackMe [🔗](https://tryhackme.com/room/osimodelzi)
 
 **Completed:** xx March 2026  
 **Difficulty:** Easy | **Time:** ~30-60min
@@ -11,7 +11,7 @@
 This room is a straightforward introduction to the OSI model and how networking is actually structured layer by layer. I went through all the tasks, answered the questions about each layer, and finished with the OSI dungeon game where I managed to beat the staff high score with 18.59 seconds. I learned what each of the seven layers does, from the Physical layer handling cables and electrical signals all the way up to the Application layer that we interact with every day in browsers and email clients. It also covered important details like TCP vs UDP on the Transport layer, MAC addresses on the Data Link layer, and how encapsulation works as data moves down the stack. The room wasn’t too heavy and the practical game helped reinforce the order of the layers. Overall I think this is a decent foundation before jumping into more technical networking topics like packets and frames.
 
 **Proof of Completion**  
-![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/31-become-a-defender-completion-badge.png)
+![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/06-OSI-model-completion-badge.png)
 
 ---
 
