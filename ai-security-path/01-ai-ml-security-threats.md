@@ -23,13 +23,13 @@ Overall it gave me a clear picture of how fast this field is moving and why I ne
 
 Here’s what stood out for me:
 
-- AI is the broad field of machines doing human-like tasks, while Machine Learning is the subset where models learn from data without explicit programming. -
-- Deep Learning is a more advanced form of ML that uses neural networks and can handle massive unlabelled datasets on its own. -
-- LLMs like GPT are built on transformer neural networks and use techniques like attention and RLHF to generate human-like text. - 
-- Attackers can abuse AI through prompt injection, data poisoning, model theft, model drift and privacy leakage. -
-- AI can also enhance traditional attacks - generating better malware, deepfakes for social engineering, or more convincing phishing emails. -
-- On the defensive side, AI is already being used for anomaly detection, automated triage, log analysis and faster incident response (tools like Splunk, Microsoft Defender, CrowdStrike and SentinelOne were mentioned). -
-- The room stressed that we need to secure our own AI models with RBAC, encryption, monitoring and standards like ISO/IEC 27090. -
+- AI is the broad field of machines doing human-like tasks, while Machine Learning is the subset where models learn from data without explicit programming. 
+- Deep Learning is a more advanced form of ML that uses neural networks and can handle massive unlabelled datasets on its own. 
+- LLMs like GPT are built on transformer neural networks and use techniques like attention and RLHF to generate human-like text. 
+- Attackers can abuse AI through prompt injection, data poisoning, model theft, model drift and privacy leakage. 
+- AI can also enhance traditional attacks - generating better malware, deepfakes for social engineering, or more convincing phishing emails. 
+- On the defensive side, AI is already being used for anomaly detection, automated triage, log analysis and faster incident response (tools like Splunk, Microsoft Defender, CrowdStrike and SentinelOne were mentioned). 
+- The room stressed that we need to secure our own AI models with RBAC, encryption, monitoring and standards like ISO/IEC 27090. 
 
 This room wasn’t overly technical, but it connected a lot of dots, at least for me. I think it’s a really useful high-level overview before I start diving deeper into practical AI security labs.
 
