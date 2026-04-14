@@ -3,7 +3,7 @@
 
 **Completed:** xx April 2026  
 **Difficulty:** Easy | **Time:** ~60min
-**Room:** [AI/ML Security Threats](https://tryhackme.com/room/searchskills)
+**Room:** [AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats)
 
 **Spoiler warning** — This write-up contains **zero answers**.
 
@@ -40,16 +40,16 @@ they emphasize that room is inteded to be entry point to AI topic and the learni
 
 
 
-                        Task 2 - THE BUILDING BLOCKS OF AI
+**Task 2 - THE BUILDING BLOCKS OF AI**
 
 1. What is Artificial Intelligence?
 
 A term refers to computer system or machine that is able to carry tasks independently, task that would need human reasoning, comprehension, creativity or problem solving.
-The terms is broad, it dates back to 1950 and at this point of technogical advancent it's not longer just a simple definition.
+The terms is broad, it dates back to 1950 and at this point of technological advancement it's not longer just a simple definition.
 
 2. Machine Learning.
 
-One of the most significant advancments in AI came with ML - Machine Learning - which is computers ability to learn data without given instructions comparable to humans brain. Over the time, algorithms got better.
+One of the most significant advancements in AI came with ML - Machine Learning - which is computers ability to learn data without given instructions, comparable to humans brain. Over the time, algorithms got better.
 
 In short the process of machine learning looks like this:
 
@@ -59,7 +59,7 @@ I will try to memoraize this cycle, although with amount of DATA I HAVE TO store
 
 
 
-3. Machine Learning Algorithms.
+3. Machine Learning Algorithms
 
 ML algorithms are methods used to learn patterns from data and ML models a trained results/outputs of these algorithms.
 
@@ -111,7 +111,7 @@ The idea of neural networks has been around for decades but it's rapid technolog
 
 
 
-                        Task 3 - LLMs
+**Task 3 - LLMs**
 
 Intrudction of ML -> Introduction of DL and neural networks -> Large Language Modules (LLM's) come into play.
 
@@ -148,12 +148,12 @@ Sometimes I think AI may outsmart...
 6. Wolves (2%)
 
 
-At the current stage of technological advancment, when we querry to LLM, this process may be happening trillions of times, over and over, until it cannot only predict the end of training data but also raw unseen data.
-Advancment of hardware, especially latest advancement of GPU, make this process possible through enabling masses of parallel operations of massive datasets while using advanced neutral networks, specifically type of networks that are called TRANSFORMER NEURAL NETWORKS.                      
+At the current stage of technological advancement, when we querry to LLM, this process may be happening trillions of times, over and over, until it cannot only predict the end of training data but also raw unseen data.
+Advancement of hardware, especially latest advancement of GPU, make this process possible through enabling masses of parallel operations of massive datasets while using advanced neutral networks, specifically type of networks that are called TRANSFORMER NEURAL NETWORKS.                      
 
 2017s Google publication "Attention is all you need" (I need to find the original and upload it to my github as well as some analysis of that document done by cybersecurity and IT experts) introduced transformer neural networks which enabled to processing parallel text instead of word-by-word analysis.
 
-This model improved CONTEXTUAL UNDERSTANDING, thanks to ability to assign "attention" to key words by encoding them into numerical values and calculating "attention" scores. It greatly improved accuracy of the models helping them in interpretation of ambiguous refenrences, like distinguishing whether "it" in this sentence refers to "the dealer" or "the car".
+This model improved CONTEXTUAL UNDERSTANDING, thanks to ability to assign "attention" to key words by encoding them into numerical values and calculating "attention" scores. It greatly improved the accuracy of the models helping them in the interpretation of ambiguous references, like distinguishing whether "it" in this sentence refers to "the dealer" or "the car".
 
 The dealer approved the car purchase, it was financially stable.
 
@@ -183,7 +183,7 @@ AI, ML, DL, RLHF, LLM, LLaMA, ML algorithm, Machine learning lifecycle, scalable
 
 
 
-                Task 4 - AI SECURITY THREATS
+**Task 4 - AI SECURITY THREATS**
 
 In this room I will be introduced to how threat actors use AI - from methodology to tools.
 
