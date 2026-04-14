@@ -23,7 +23,7 @@ Purchasing a yearly subscription on TryHackMe was probably one of the best inves
 
 
 **Proof of Completion**  
-![Room 100% completed](assets/images/pre-security-pathway/31-become-a-defender-completion-badge.png)
+![Room 100% completed](https://github.com/micromediacoding/tryhackme-notes/blob/main/assets/images/pre-security-pathway/31-become-a-defender-completion-badge.png)
 
 ## Personal, handwritten notes from the room (redacted - no answers visible)
 
