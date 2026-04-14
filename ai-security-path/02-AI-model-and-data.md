@@ -1,8 +1,8 @@
 # Room 2 - AI Models & Data - TryHackMe [🔗](https://tryhackme.com/room/aimodelsdata)
 
-**Started:** 23:31, 13 April 2026
+**Started:** 21:43, 14 April 2026
 
-**Completed:** x April 2026 
+**Completed:** xx:yy, x April 2026 
 
 **Difficulty:** Easy | **Time:** ~60min
 
