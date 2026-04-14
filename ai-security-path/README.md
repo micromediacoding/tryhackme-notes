@@ -27,4 +27,4 @@ Today, TryHackMe announced the release of a new learning path - [AI Security](ht
 
 I am insanely motivated and try to stay organised, and I think I can do it if I approach it in the right way. This repository will be dedicated to the description of my progress with [AI Security modules](https://www.linkedin.com/posts/tryhackme_new-ai-security-learning-path-is-live-activity-7449479098181214208-XEOe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF4yDTcBD2-02tGctd_ChfHqYWbE61SIPI4).
 
-We are live. **🎦👨🏻‍💻**
+We are live. ###🎦👨🏻‍💻
