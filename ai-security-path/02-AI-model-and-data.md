@@ -17,12 +17,12 @@
 This room is all about the data side of AI models and the security risks that come from how those models are built and trained. I went through every task, read the explanations carefully, answered the questions, and finished with a strong practical lab in Task 6 where I had to audit a real model card and find all six red flags. I learned how training data is actually collected, why poor data provenance creates big problems, and how things like web scraping or synthetic data can introduce PII and hidden vulnerabilities. It also covered the inheritance problem when companies fine-tune pre-trained models and the black box nature of these models, plus why model cards are important but still have gaps. The practical task in Task 6 was really the strongest part for me — it forced me to actively look for red flags like missing provenance, self-issued licenses, and suspicious weight differences after pruning or quantisation, and I had to do it properly across three attempts before getting 6/6.
 Here’s what stood out for me:
 
-**- Training data mostly comes from web scraping, licensed datasets, synthetic data, or internal corpora, and poor provenance makes it hard to know where the data really came from or if it was modified.
-- PII and sensitive credentials can easily end up baked into model weights through large-scale scraping, which creates privacy and extortion risks later.
-- Overfitting, pruning, quantisation and federated learning all introduce their own security weaknesses that aren’t always caught during validation.
-- The inheritance problem means that when you fine-tune a pre-trained model you also inherit all its hidden flaws, biases and backdoors from the original training data you never controlled.
-- Models are essentially black boxes made of billions of floating-point numbers with no clear record of how they were built, so model cards are the main (but imperfect) way to add transparency.
-- Auditing a model card means checking things like training data sources, intended use, evaluation results, known limitations, bias assessment and licensing — and spotting when any of those are missing or suspicious.**
+- **Training data mostly comes from web scraping, licensed datasets, synthetic data, or internal corpora, and poor provenance makes it hard to know where the data really came from or if it was modified.**
+- **PII and sensitive credentials can easily end up baked into model weights through large-scale scraping, which creates privacy and extortion risks later.**
+- **Overfitting, pruning, quantisation and federated learning all introduce their own security weaknesses that aren’t always caught during validation.**
+- **The inheritance problem means that when you fine-tune a pre-trained model you also inherit all its hidden flaws, biases and backdoors from the original training data you never controlled.**
+- **Models are essentially black boxes made of billions of floating-point numbers with no clear record of how they were built, so model cards are the main (but imperfect) way to add transparency.**
+- **Auditing a model card means checking things like training data sources, intended use, evaluation results, known limitations, bias assessment and licensing — and spotting when any of those are missing or suspicious.**
 
 This room wasn’t super technical but it connected a lot of dots for me on why data quality and model transparency matter from a cybersecurity point of view. The practical model card audit at the end was genuinely useful and made the whole room feel more hands-on. I saved the full interaction with the TryHackMe AI and my model card assessment as a PDF and added it to the repo. I think this is solid knowledge to build on before I start the more hands-on AI security labs.
 
